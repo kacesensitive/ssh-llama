@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="llama-ssh.png" alt="SSH-Llama Logo">
+</p>
+
 # SSH-Llama
 
 A TypeScript library that uses Ollama to parse SSH output into structured data using Zod schemas.
