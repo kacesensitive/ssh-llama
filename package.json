@@ -1,6 +1,6 @@
 {
   "name": "ssh-llama",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse SSH output with Zod and Ollama",
   "main": "index.js",
   "scripts": {
