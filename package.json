@@ -9,8 +9,13 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ssh",
+    "llm",
+    "zod",
+    "ollama"
+  ],
+  "author": "KC Haley",
   "license": "ISC",
   "dependencies": {
     "ollama": "^0.5.12",
